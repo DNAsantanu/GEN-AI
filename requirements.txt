@@ -10,3 +10,4 @@ python-dotenv
 fastapi>=0.110.0
 langserve>=0.0.40
 uvicorn[standard]>=0.29.0
+sse-starlette
